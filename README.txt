@@ -14,9 +14,11 @@ including its package "Tkinter" for GUI and all database connectors(mysql.connec
 psycopg2 for PostgreSQL, and pymongo for MongoDB) package.
 
 Motivation:- 
+
     Behind he existance of this project, the main reason is to implement the knowledge of python
 and its core packages and also sharpening the logical skilss that i can think maximum.
  
 Prerequisites:-
-    To run this game, your system must have installed "python 2.7" and its two packages.
+
+    To run this app, your system must have installed "python 2.7" and its two packages.
 Also the database servers. Make sure to add the python to "PATH" environment variable.
